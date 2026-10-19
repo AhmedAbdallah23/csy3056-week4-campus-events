@@ -30,4 +30,14 @@ EVENTS = [
         'category': 'Technical',
         'description': 'Discuss how small web systems can be deployed and operated.',
     },
+    {
+        'id': 'project-showcase',
+        'title': 'Student Project Showcase',
+        'date': '2026-11-25',
+        'time': '15:00',
+        'location': 'Waterside Campus, Learning Hub',
+        'capacity': 20,
+        'category': 'Showcase',
+        'description': 'See final-year software projects and chat with the students who built them.',
+    },
 ]
